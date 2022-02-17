@@ -1,0 +1,47 @@
+{
+    
+
+"students" : [
+
+    {
+        "name" : "Alamin",
+        "middlename" : null,
+        "age" : 31,
+        "cgpa" : 3.44,
+        "isRegistered" : true,
+        "language" : ["Bangali","English","hondi"],
+        "friends" : [
+            {
+                "name" : "Akhash",
+                "age" : 25
+            },
+            {
+                "name" : "Batash",
+                "age" : 28
+            }
+        ]
+    
+    },
+    {
+        "name" : "Rabeya Boshri",
+        "middlename" : null,
+        "age" : 22,
+        "cgpa" : 3.54,
+        "isRegistered" : false,
+        "language" : ["Bangali","English","finnish","hindi"],
+        "friends" : [
+            {
+                "name" : "Anar",
+                "age" : 20
+            },
+            {
+                "name" : "Backet",
+                "age" : 29
+            }
+        ]
+    
+    }
+
+
+]
+}
